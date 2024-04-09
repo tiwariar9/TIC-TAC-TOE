@@ -14,4 +14,3 @@
 
 ### Reset Button
 https://github.com/tiwariar9/TIC-TAC-TOE/blob/main/TICTACTOE.HTML
-TICTACTOE.HTML
