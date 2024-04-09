@@ -7,8 +7,8 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 - Overview
 - Features
 - How to Play
-- Link to web-page -:
-* [TICTACTOE](TICTACTOE.html)
+- Navigation -:
+*[TICTACTOE](TICTACTOE.html)
 
 ## Overview
 
@@ -29,3 +29,5 @@ This Tic Tac Toe game allows two players to play against each other. It visually
 4. The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
 5. If all squares are filled and there is no winner, the game ends in a draw.
 6. Click the "Reset" button to start a new game.
+
+*[TICTACTOE](TICTACTOE.html)
