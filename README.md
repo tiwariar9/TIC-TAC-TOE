@@ -7,7 +7,8 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 - Overview
 - Features
 - How to Play
-- Link to web-page : [TICTACTOE](https://github.com/tiwariar9/TIC-TAC-TOE/blob/main/TICTACTOE.HTML)
+- Link to web-page -:
+* [TICTACTOE](TICTACTOE.html)
 
 ## Overview
 
