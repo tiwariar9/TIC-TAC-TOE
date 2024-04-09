@@ -4,7 +4,7 @@
 
 This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
-## Table of Contents
+## Table of Contents 
 
 - Overview
 - Features
