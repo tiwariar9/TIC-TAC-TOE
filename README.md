@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-*[TICTACTOE](TICTACTOE.html)
+* [TICTACTOE](TICTACTOE.html)
 This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 ## Table of Contents
@@ -8,7 +8,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 - Features
 - How to Play
 - Navigation -:
-*[TICTACTOE](TICTACTOE.html)
+* [TICTACTOE](TICTACTOE.html)
 
 ## Overview
 
@@ -30,4 +30,4 @@ This Tic Tac Toe game allows two players to play against each other. It visually
 5. If all squares are filled and there is no winner, the game ends in a draw.
 6. Click the "Reset" button to start a new game.
 
-*[TICTACTOE](TICTACTOE.html)
+* [TICTACTOE](TICTACTOE.html)
